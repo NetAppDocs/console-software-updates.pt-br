@@ -1,0 +1,40 @@
+---
+sidebar: sidebar 
+permalink: get-started/software-updates-faq.html 
+keywords: ontap update faq, ontap update frequently asked questions, software updates faq, software updates frequently asked questions, troubleshooting 
+summary: Veja as respostas para as perguntas frequentes sobre atualizações de software. 
+---
+= Perguntas frequentes sobre atualizações de software
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Se quiser saber mais sobre atualizações de software ou precisar de ajuda com solução de problemas, você pode consultar estas perguntas para obter uma resposta rápida.
+
+*Qual é o URL de atualização do software?*
+
+Para o URL, em um navegador, digite: https://console.netapp.com/["https://console.netapp.com/"^] para acessar o NetApp Console.
+
+*Você precisa de uma licença para usar atualizações de software?*
+
+Não é necessário um arquivo de licença NetApp (NLF).
+
+*Por que não consigo visualizar o cluster na guia histórico mesmo depois de atualizar a versão ONTAP do cluster?*
+
+Leva de 2 a 3 horas para o cluster aparecer na guia histórico.  Depois que a versão ONTAP do cluster é atualizada, o AutoSupport é gerado.  Leva de 2 a 3 horas para processar os dados do AutoSupport e refletir a versão mais recente do ONTAP.
+
+*Por que estou vendo a versão mais antiga do ONTAP no painel de atualizações de software mesmo depois de atualizar a versão do ONTAP do cluster?*
+
+Leva de 2 a 3 horas para o cluster aparecer na guia histórico.  Depois que a versão ONTAP do cluster é atualizada, o AutoSupport é gerado.  Leva de 2 a 3 horas para processar os dados do AutoSupport e refletir a versão mais recente do ONTAP.
+
+*Por que estou vendo telas diferentes para atualizações diferentes?*
+
+Isso ocorre devido à versão atual do ONTAP e à indisponibilidade de um agente de console para clusters.  Um agente do Console executa a atualização do ONTAP dentro do Console e não exige que você saia do Console para fazer uma atualização.  Se você não tiver um agente do Console, será redirecionado para o Gerenciador do Sistema e precisará inserir novamente as credenciais do cluster ONTAP .  Para obter informações sobre o processo de atualização do ONTAP para diferentes versões do ONTAP, consultelink:https://docs.netapp.com/us-en/bluexp-software-updates/get-started/software-updates.html["Sistemas ONTAP suportados"] .
+
+*O que preciso para descobrir clusters?*
+
+Para executar a atualização do ONTAP para o cluster desejado, você precisa do IP do cluster ONTAP e das credenciais de administrador para se conectar ao cluster.  Como parte da descoberta de cluster, você precisa fornecer esses detalhes para que a atualização do ONTAP possa ser executada automaticamente.
+
+Você também precisa ter uma das seguintes funções de acesso: administrador da organização, administrador de pasta ou projeto ou administrador de armazenamento.

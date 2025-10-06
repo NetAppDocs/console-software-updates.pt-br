@@ -1,0 +1,19 @@
+= As BlueXP software updates agora são atualizações de software
+:allow-uri-read: 
+
+
+
+
+=== As BlueXP software updates agora são atualizações de software
+
+As BlueXP software updates foram renomeadas para atualizações de software.
+
+Você pode acessá-lo na barra de navegação esquerda do NetApp Console selecionando *Saúde* > *Atualizações de software*.
+
+
+
+=== BlueXP agora é NetApp Console
+
+O NetApp Console, criado com base na base aprimorada e reestruturada do BlueXP , fornece gerenciamento centralizado do armazenamento NetApp e do NetApp Data Services em ambientes locais e na nuvem em nível empresarial, fornecendo insights em tempo real, fluxos de trabalho mais rápidos e administração simplificada, de forma altamente segura e compatível.
+
+Para obter detalhes sobre o que mudou, consulte o https://docs.netapp.com/us-en/bluexp-relnotes/index.html["Notas de versão do NetApp Console"] .

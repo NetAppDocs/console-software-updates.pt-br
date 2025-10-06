@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: ONTAP/update-storage-system.html 
+keywords: update ontap storage system 
+summary: Atualize seu sistema de armazenamento ONTAP para aproveitar os recursos novos e aprimorados. 
+---
+= Iniciar a atualização do ONTAP usando atualizações de software
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Depois de identificar a versão de destino do ONTAP , corrigir e reconhecer todos os bloqueadores, você pode iniciar a atualização do seu sistema de armazenamento ONTAP .
+
+.Passos
+. Na navegação à esquerda do Console, selecione *Saúde* > *Atualizações de software*.
++
+A lista de clusters que requerem uma atualização de software é exibida.
+
+. Identifique a versão de destino do ONTAP para seu sistema de armazenamento.  Para obter informações sobre como identificar a versão de destino do ONTAP , consultelink:../ONTAP/choose-ontap-910-later.html["Compare as versões do ONTAP para entender os benefícios e riscos do uso de atualizações de software"] .
+. Corrija e reconheça os bloqueadores do ONTAP .  Para obter informações sobre como corrigir bloqueadores, consultelink:../ONTAP/fix-blockers-warnings.html["Corrija todos os bloqueadores usando atualizações de software antes de uma atualização do ONTAP"] .
+. Leia e aceite o contrato de licença do usuário final.
++
+Aguarde a recuperação da imagem ONTAP .
+
+. Clique em *Instalar atualização* para concluir o processo de atualização.
+

@@ -1,0 +1,39 @@
+---
+sidebar: sidebar 
+permalink: ONTAP/fix-blockers-warnings.html 
+keywords: fix ontap blockers and warnings, ontap update precheck, acknowledge warnings 
+summary: Corrija os bloqueadores do ONTAP e reconheça os avisos que estão impedindo você de concluir a atualização do ONTAP . 
+---
+= Corrija todos os bloqueadores usando atualizações de software antes de uma atualização do ONTAP
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Depois de identificar a versão de destino do ONTAP para seu sistema de armazenamento ONTAP , você deve corrigir e reconhecer todos os bloqueadores e revisar os avisos antes de atualizar o sistema de armazenamento ONTAP .
+
+Você deve corrigir e reconhecer todos os bloqueadores antes de atualizar o software.
+
+.Passos
+. Na navegação à esquerda do Console, selecione *Saúde* > *Atualizações de software*.
++
+O Console exibe a lista de clusters que exigem uma atualização de software.
+
+. Identifique a versão de destino do ONTAP para seu sistema de armazenamento.  Para obter informações sobre como identificar a versão de destino do ONTAP , consultelink:../ONTAP/choose-ontap-910-later.html["Compare as versões do ONTAP para entender os benefícios e riscos do uso de atualizações de software"] .
+. Depois de decidir a versão de destino do ONTAP , selecione *Preparar para atualização* para iniciar o processo de atualização.
++
+A lista de bloqueadores e avisos é exibida.
+
+. Selecione o bloqueador para ver as instruções para corrigi-lo.
+. Execute manualmente as etapas fornecidas para corrigir o bloqueador.
+. Selecione os bloqueadores que foram corrigidos e selecione *Reconhecer selecionados* para confirmar que os bloqueadores foram corrigidos.
+
+
+
+NOTE: Você deve corrigir e reconhecer todos os bloqueadores para prosseguir com a atualização.
+
+. Selecione a aba *Avisos* para revisar os avisos antes de prosseguir com a atualização do software.
+. Selecione a aba *Reconhecer* para visualizar os bloqueadores que foram corrigidos.
+. Selecione *Continuar atualizando* para prosseguir com o processo de atualização.
+

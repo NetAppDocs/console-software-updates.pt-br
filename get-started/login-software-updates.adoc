@@ -1,0 +1,25 @@
+---
+sidebar: sidebar 
+permalink: get-started/login-software-updates.html 
+keywords: bluexp login, software updates log in, NetApp Console 
+summary: Efetue login e acesse atualizações de software. 
+---
+= Acessar atualizações de software
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Para acessar atualizações de software, você deve efetuar login no NetApp Console.
+
+Efetue login com suas credenciais do site de suporte da NetApp ou inscreva-se usando seu e-mail e senha. link:https://docs.netapp.com/us-en/bluexp-setup-admin/task-logging-in.html["Saiba mais sobre como fazer login"^] .
+
+.Passos
+. Abra um navegador da web e vá para olink:https://console.netapp.com/["Console"^] .
++
+O Console exibe a página de login.
+
+. Efetue login no Console.
+. Na navegação à esquerda do Console, selecione *Saúde > Atualizações de software.*
+

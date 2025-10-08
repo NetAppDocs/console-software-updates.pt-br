@@ -6,4 +6,4 @@
 
 === Riscos mitigados
 
-Na seção de resumo das BlueXP software updates, agora você pode visualizar o número total de riscos que podem ser mitigados pela atualização do sistema operacional.  Isso permite que os usuários avaliem as melhorias de segurança e estabilidade em sua base de instalação.
+Na seção de resumo das BlueXP software updates, agora você pode visualizar o número total de riscos que podem ser mitigados pela atualização do sistema operacional. Isso permite que os usuários avaliem as melhorias de segurança e estabilidade em sua base de instalação.

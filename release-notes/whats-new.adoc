@@ -29,7 +29,7 @@ Você pode acessá-lo na barra de navegação esquerda do NetApp Console selecio
 
 === BlueXP agora é NetApp Console
 
-O NetApp Console, criado com base na base aprimorada e reestruturada do BlueXP , fornece gerenciamento centralizado do armazenamento NetApp e do NetApp Data Services em ambientes locais e na nuvem em nível empresarial, fornecendo insights em tempo real, fluxos de trabalho mais rápidos e administração simplificada, de forma altamente segura e compatível.
+O NetApp Console, criado com base na base aprimorada e reestruturada do BlueXP , fornece gerenciamento centralizado do armazenamento NetApp e do NetApp Data Services em ambientes locais e na nuvem em nível empresarial, fornecendo insights em tempo real, fluxos de trabalho mais rápidos e administração simplificada, que é altamente segura e compatível.
 
 Para obter detalhes sobre o que mudou, consulte o https://docs.netapp.com/us-en/bluexp-relnotes/index.html["Notas de versão do NetApp Console"] .
 
@@ -41,7 +41,7 @@ Para obter detalhes sobre o que mudou, consulte o https://docs.netapp.com/us-en/
 
 === Função de acesso BlueXP necessária
 
-Agora você precisa de uma das seguintes funções de acesso para instalar atualizações de software: *Administrador da organização*, *Administrador de pasta ou projeto*, *Administrador de armazenamento*, *Visualizador de armazenamento* ou *Especialista em integridade de armazenamento*.  Usuários com a função Visualizador de armazenamento têm várias permissões relacionadas a atualizações de software, mas não podem instalar atualizações de software.link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Saiba mais sobre as funções de acesso do BlueXP ."^]
+Agora você precisa de uma das seguintes funções de acesso para instalar atualizações de software: *Administrador da organização*, *Administrador de pasta ou projeto*, *Administrador de armazenamento*, *Visualizador de armazenamento* ou *Especialista em integridade de armazenamento*. Usuários com a função Visualizador de armazenamento têm várias permissões relacionadas a atualizações de software, mas não podem instalar atualizações de software.link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Saiba mais sobre as funções de acesso do BlueXP ."^]
 
 
 
@@ -51,7 +51,7 @@ Agora você precisa de uma das seguintes funções de acesso para instalar atual
 
 === Riscos mitigados
 
-Na seção de resumo das BlueXP software updates, agora você pode visualizar o número total de riscos que podem ser mitigados pela atualização do sistema operacional.  Isso permite que os usuários avaliem as melhorias de segurança e estabilidade em sua base de instalação.
+Na seção de resumo das BlueXP software updates, agora você pode visualizar o número total de riscos que podem ser mitigados pela atualização do sistema operacional. Isso permite que os usuários avaliem as melhorias de segurança e estabilidade em sua base de instalação.
 
 
 

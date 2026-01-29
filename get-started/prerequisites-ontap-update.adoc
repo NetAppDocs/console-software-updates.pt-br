@@ -21,6 +21,6 @@ Para usar atualizações de software, você deve garantir que seu sistema atenda
 * Um sistema é configurado no Console.
 * As credenciais do administrador estão disponíveis para o cluster desejado durante a execução da atualização do software.
 * Todos os nós no cluster estão enviando dados do AutoSupport .
-* Todos os nós devem estar em execução no ONTAP 9.10 ou versões posteriores.
+* Todos os nós devem estar executando ONTAP 9.10.1 ou versões posteriores.
 * Os nós não devem estar em uma configuração MetroCluster .
 

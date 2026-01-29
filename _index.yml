@@ -21,7 +21,7 @@ indexpage:
       url: "/get-started/software-updates-faq.html"
   - title: Usar atualizações de software
     links:
-    - title: Escolha a versão de destino do ONTAP 9.10 ou posterior
+    - title: Escolha a versão de destino ONTAP 9.10.1 ou posterior
       url: "/ONTAP/choose-ontap-910-later.html"
     - title: Corrigir e reconhecer bloqueadores ONTAP
       url: "/ONTAP/fix-blockers-warnings.html"

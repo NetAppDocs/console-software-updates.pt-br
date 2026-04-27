@@ -69,4 +69,4 @@ Alguns dos benefícios de atualizar seu sistema de armazenamento ONTAP são:
 
 == Custo
 
-A NetApp não cobra pelo uso de atualizações de software.
+As atualizações de software estão disponíveis mediante um contrato de suporte ativo.

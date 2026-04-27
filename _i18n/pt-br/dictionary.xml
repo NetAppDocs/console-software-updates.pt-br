@@ -144,7 +144,6 @@
   <block id="b7a37e1c1d64d306cdbebfe5093202c7" category="list-text">Você pode garantir compatibilidade e interoperabilidade com outros produtos NetApp , aplicativos de terceiros e provedores de nuvem.</block>
   <block id="2bba882789946cd1d1a2e47e7d673985" category="list-text">Você pode se beneficiar do suporte e manutenção contínuos que a NetApp fornece para as versões mais recentes do sistema operacional ONTAP .</block>
   <block id="20b4f77bd00b4f63a49ec8e08f3bf6a6" category="section-title">Custo</block>
-  <block id="b1b0440f75a979fe2d1ec9d044846fd7" category="paragraph">A NetApp não cobra pelo uso de atualizações de software.</block>
   <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">Avisos legais</block>
   <block id="e9c44bbfd795a5d63d74c6a77afee70d" category="paragraph">Avisos legais fornecem acesso a declarações de direitos autorais, marcas registradas, patentes e muito mais.</block>
   <block id="6016a2b341113bf496b719905398ecd2" category="section-title">Direitos autorais</block>
@@ -351,4 +350,5 @@
   <block id="1d593c3f7480ada9580d93cd753c3f93" category="paragraph">Este é um ID gerado pelo sistema que corresponde ao seu e-mail. Na página *Gerenciamento de NSS*, você pode visualizar seu e-mail no <block ref="5444f6f0c3983523c8933a1864b2b390" category="inline-image-macro-rx" type="image"></block> menu.</block>
   <block id="872eaae7deb6035c20f9bfe6deefd03d" category="list-text">Se você precisar atualizar seus tokens de credencial de login, também há a opção *Atualizar Credenciais* no <block ref="5444f6f0c3983523c8933a1864b2b390" category="inline-image-macro-rx" type="image"></block> menu.</block>
   <block id="2b42ed8b95c44a18fed6f16125eff46e" category="sidebar">Escolha a versão de destino ONTAP 9.10.1 ou posterior</block>
+  <block id="0ee40da0bf64949806c9488a6af02cd9" category="paragraph">As atualizações de software estão disponíveis mediante um contrato de suporte ativo.</block>
 </blocks>

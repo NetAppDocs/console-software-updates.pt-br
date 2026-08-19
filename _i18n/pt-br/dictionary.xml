@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blocks>
   <block id="f6f16bb8e1efb9727b0dcf9a90373ffb" category="summary">Entenda os benefícios e riscos de cada versão do ONTAP antes de atualizar seu sistema de armazenamento ONTAP .</block>
-  <block id="b75c1aac9aa77f2c871639ef1dfb023d" category="doc">Compare as versões do ONTAP para entender os benefícios e riscos do uso de atualizações de software</block>
   <block id="49d68f82813e1841cdc24205608d8fe2" category="paragraph">É muito importante comparar e entender os benefícios e riscos associados à versão de destino do ONTAP antes de atualizar a versão do ONTAP para o sistema de armazenamento.</block>
   <block id="0634e55ef28524df4ddd4c1ddfd72bdd" category="paragraph">Você pode escolher a versão de destino e compará-la com a versão atual para entender os benefícios de atualizar para a versão específica no ONTAP.  Você também pode ver os riscos que serão resolvidos e os novos riscos (se houver) que surgirão na atualização para a versão específica do ONTAP.</block>
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">Passos</block>
@@ -20,11 +19,9 @@
   <block id="5283309105a904a39b6bafe0f67055f3" category="list-text">Selecione a versão para visualizar os benefícios dos recursos e os riscos.</block>
   <block id="0fdb0ceffdc4d2d2cdb1f927a8e4bbe5" category="list-text">Selecione *Iniciar atualização* para iniciar o processo de atualização.</block>
   <block id="8458cbd22efac91a6b68db38492fd62e" category="summary">Corrija os bloqueadores do ONTAP e reconheça os avisos que estão impedindo você de concluir a atualização do ONTAP .</block>
-  <block id="26ba8b9b55e65dc6a858f236255efacb" category="doc">Corrija todos os bloqueadores usando atualizações de software antes de uma atualização do ONTAP</block>
   <block id="7d73325ccb71b4870e81c3c8734ba56e" category="paragraph">Depois de identificar a versão de destino do ONTAP para seu sistema de armazenamento ONTAP , você deve corrigir e reconhecer todos os bloqueadores e revisar os avisos antes de atualizar o sistema de armazenamento ONTAP .</block>
   <block id="94a69c4493d5709adca25152bd529966" category="paragraph">Você deve corrigir e reconhecer todos os bloqueadores antes de atualizar o software.</block>
   <block id="ba38704965acbf6846952c2bb014de45" category="paragraph">O Console exibe a lista de clusters que exigem uma atualização de software.</block>
-  <block id="b9ba69413eb7f3ff93a8fb2231a03014" category="list-text">Identifique a versão de destino do ONTAP para seu sistema de armazenamento.  Para obter informações sobre como identificar a versão de destino do ONTAP , consulte<block ref="811a6bc111a68a7468006fcebcb17b1a" category="inline-link-macro-rx"></block> .</block>
   <block id="33ba4cda6895a31680b2de36d86dab15" category="list-text">Depois de decidir a versão de destino do ONTAP , selecione *Preparar para atualização* para iniciar o processo de atualização.</block>
   <block id="921328cf9f5d7f1029ee8f2b5eb6add6" category="paragraph">A lista de bloqueadores e avisos é exibida.</block>
   <block id="0d3e45ea704fa7abdf905562392b0203" category="list-text">Selecione o bloqueador para ver as instruções para corrigi-lo.</block>
@@ -35,7 +32,6 @@
   <block id="185674eb1bcbdcee59090d2a4854c5bd" category="list-text">Selecione a aba *Reconhecer* para visualizar os bloqueadores que foram corrigidos.</block>
   <block id="46ab049c063b4859793fe4d01b477a97" category="list-text">Selecione *Continuar atualizando* para prosseguir com o processo de atualização.</block>
   <block id="0fd40a88a795a27afa35dc3e7dbce97c" category="summary">Atualize seu sistema de armazenamento ONTAP para aproveitar os recursos novos e aprimorados.</block>
-  <block id="b999d3e2ca0d95fc761f8994426c1b75" category="doc">Iniciar a atualização do ONTAP usando atualizações de software</block>
   <block id="0ae470cfcd6da9622bf1c34549a18b77" category="paragraph">Depois de identificar a versão de destino do ONTAP , corrigir e reconhecer todos os bloqueadores, você pode iniciar a atualização do seu sistema de armazenamento ONTAP .</block>
   <block id="84159d0a25239d2d4573172d023c46e7" category="list-text">Leia e aceite o contrato de licença do usuário final.</block>
   <block id="7e6935bb4ba08bd2b040fec7140cefe8" category="paragraph">Aguarde a recuperação da imagem ONTAP .</block>
@@ -72,7 +68,6 @@
   <block id="4a43cddfeeabba4570c14c252dec0bd1" category="list-text">Efetue login no Console.</block>
   <block id="3b16a9fc9b35a1c097a64ed8f9fc29ce" category="list-text">Na navegação à esquerda do Console, selecione *Saúde &gt; Atualizações de software.*</block>
   <block id="20b41c007263bf3cb834352319595be6" category="summary">Revise os pré-requisitos e requisitos antes de prosseguir com a atualização do ONTAP .</block>
-  <block id="31dc6a15adf8edc01571240dc04fa15b" category="doc">Prepare-se para atualizar o ONTAP usando atualizações de software</block>
   <block id="64b0076e7811183337cd856e7da0cf58" category="paragraph">Você deve revisar os pré-requisitos e requisitos antes de prosseguir com a atualização do ONTAP .  Você pode usar atualizações de software para verificar a prontidão do seu sistema, login, acesso à rede e navegador da web.</block>
   <block id="f3d96e033470d8fb9d043aed29754d44" category="paragraph-title">Função necessária do NetApp Console :</block>
   <block id="34333d2783171ddc2c4a2d45b04576db" category="inline-link-macro">Saiba mais sobre as funções de acesso do Console.</block>
@@ -83,7 +78,6 @@
   <block id="b34cd7f587984e9b254885f6d8640801" category="list-text">Todos os nós no cluster estão enviando dados do AutoSupport .</block>
   <block id="8cb2d0d931dcf081c2e6cdb9235d0efa" category="list-text">Os nós não devem estar em uma configuração MetroCluster .</block>
   <block id="2dc7ae12158353c62d51898b1414574d" category="summary">Comece a atualizar seu sistema de armazenamento ONTAP de forma rápida e fácil.</block>
-  <block id="798a6e52e04dbe32b660de894b56e6ec" category="doc">Início rápido para atualizar o ONTAP usando atualizações de software</block>
   <block id="84d8735e89be78d4528fdfa1c141e25a" category="paragraph">Aqui está uma visão geral das etapas necessárias para começar rapidamente com as atualizações de software. Os links em cada etapa levam você a uma página que fornece mais detalhes.</block>
   <block id="06c2cea18679d64399783748fa367bdd" category="inline-image-macro">Um</block>
   <block id="a2d56436fc6737079209e6c74380c5fb" category="paragraph-title"><block ref="58f667aaf05f87159670e12bd9bc076b" category="inline-image-macro-rx" type="image"></block>Revise os pré-requisitos</block>
@@ -101,9 +95,7 @@
   <block id="ca8a2087e5557e317599344687a57391" category="inline-image-macro">Três</block>
   <block id="fb35cdd7029fec15aadbdddd879fa161" category="paragraph-title"><block ref="05b2444faffd66d76e88602ea7dd353f" category="inline-image-macro-rx" type="image"></block>O que vem a seguir?</block>
   <block id="a92f42e8a6bb6042f669f3abd9ce4ccc" category="paragraph">Depois de atualizar o sistema de armazenamento ONTAP , veja o que você pode fazer em seguida.</block>
-  <block id="20d07d8fbe66f0a93aa19234a6281583" category="paragraph"><block ref="64ffd4ac1c7206890e581f7b5a3f2be9" category="inline-link-macro-rx"></block> .</block>
   <block id="941f5fc8c77cdb1bb6720e3caadbda45" category="summary">Veja as respostas para as perguntas frequentes sobre atualizações de software.</block>
-  <block id="b33588f2fe268cea60d6a81ad7835c4d" category="doc">Perguntas frequentes sobre atualizações de software</block>
   <block id="c2ef1770bf177f2640d7a770ceb5cd90" category="paragraph">Se quiser saber mais sobre atualizações de software ou precisar de ajuda com solução de problemas, você pode consultar estas perguntas para obter uma resposta rápida.</block>
   <block id="8d1cd15cf644278ec02f2e4f7fac4a36" category="paragraph">*Qual é o URL de atualização do software?*</block>
   <block id="0d6e5faf80b288a1d3277954d0b55ae8" category="inline-link"><block ref="0d6e5faf80b288a1d3277954d0b55ae8" category="inline-link-rx"></block></block>
@@ -336,9 +328,7 @@
   <block id="043581d1236b7af801106bd8e6625593" category="admonition">Você só pode usar esse recurso se estiver executando ONTAP 9.10.1 ou versões posteriores.</block>
   <block id="ece84330c58c78fbf01a4972ddd0296e" category="paragraph">A lista de clusters que requerem uma atualização de software é exibida.</block>
   <block id="324079baf078478689b1fffe292a58fa" category="list-text">Identifique a versão de destino do ONTAP para o seu sistema de storage.</block>
-  <block id="331ed5269367979dfabf03aff2ac4216" category="paragraph">Para obter informações sobre como identificar a versão de destino do ONTAP, consulte <block ref="811a6bc111a68a7468006fcebcb17b1a" category="inline-link-macro-rx"></block>.</block>
   <block id="d246ea0c2a3ee278bb9416ecc41e65d0" category="list-text">Corrija e reconheça os bloqueadores do ONTAP.</block>
-  <block id="edd344dfd779af2092f17f0f61d408c3" category="paragraph">Para obter informações sobre como corrigir bloqueadores, consulte <block ref="a0c773d092c5c735a87bc32f8b10113b" category="inline-link-macro-rx"></block>.</block>
   <block id="ac1e940e4bc725e8939da550c7be6f8b" category="list-text">Todos os nós devem estar executando ONTAP 9.10.1 ou versões posteriores.</block>
   <block id="f56500d1f623ea9da301131f3ec22239" category="paragraph">Você pode concluir a atualização do ONTAP usando as atualizações de software somente se estiver executando o ONTAP 9.10.1 ou versões posteriores.</block>
   <block id="22f284bcf4504118b4d7e9ed2bce2c2e" category="cell">9.12.1 e versões posteriores</block>
@@ -351,4 +341,19 @@
   <block id="872eaae7deb6035c20f9bfe6deefd03d" category="list-text">Se você precisar atualizar seus tokens de credencial de login, também há a opção *Atualizar Credenciais* no <block ref="5444f6f0c3983523c8933a1864b2b390" category="inline-image-macro-rx" type="image"></block> menu.</block>
   <block id="2b42ed8b95c44a18fed6f16125eff46e" category="sidebar">Escolha a versão de destino ONTAP 9.10.1 ou posterior</block>
   <block id="0ee40da0bf64949806c9488a6af02cd9" category="paragraph">As atualizações de software estão disponíveis mediante um contrato de suporte ativo.</block>
+  <block id="3bb05197dcd48b176166dcb5012f8a48" category="doc">Compare as versões do ONTAP nas atualizações de software</block>
+  <block id="909023b0c0f1814950e3bd194eff7848" category="doc">Corrija os bloqueios e avisos do ONTAP em atualizações de software</block>
+  <block id="831a964ace40920a830fc7af9902eba0" category="inline-link-macro">Compare as versões do ONTAP com as atualizações de software</block>
+  <block id="35d9694a11f374a5973bc0f17b415b89" category="list-text">Identifique a versão de destino do ONTAP para o seu sistema de storage. Para obter informações sobre como identificar a versão de destino do ONTAP, consulte <block ref="a0bfa8805ab7db8e50f13af6753da603" category="inline-link-macro-rx"></block>.</block>
+  <block id="79833760484d5dee9033668e0bc8a254" category="doc">Inicie a atualização do ONTAP em atualizações de software</block>
+  <block id="46c3b82a8c174ee17ea5230b72d30fcd" category="paragraph">Para obter informações sobre como identificar a versão de destino do ONTAP, consulte <block ref="a0bfa8805ab7db8e50f13af6753da603" category="inline-link-macro-rx"></block>.</block>
+  <block id="75bab4206d7be356e14412da05e58915" category="inline-link-macro">Corrija os bloqueios e avisos do ONTAP usando atualizações de software</block>
+  <block id="458ee7c2789c4eb1f053428db463606f" category="paragraph">Para obter informações sobre como corrigir bloqueadores, consulte <block ref="0a0df430679dfb5e93adea513592bdb3" category="inline-link-macro-rx"></block>.</block>
+  <block id="f924ced1a25e770e1244b1ab08beb2d7" category="doc">Valide o status de uma atualização do ONTAP nas atualizações de software</block>
+  <block id="c3c936ca27663dd60fad2d80666fbb45" category="doc">Pré-requisitos para atualizar o ONTAP em atualizações de software</block>
+  <block id="00aa1b8a9615c171cda17751bab406de" category="doc">Guia rápido para atualizar o ONTAP em atualizações de software</block>
+  <block id="98b4d5edb477fac5b11dd43e884beb61" category="paragraph"><block ref="2f43376abcbec5babf33cf3bc8cbac0a" category="inline-link-macro-rx"></block>.</block>
+  <block id="d203726f33273546f5b9ab496f6855e5" category="doc">Perguntas frequentes sobre atualizações de software</block>
+  <block id="9cda6e057b80af072c46d398b6147a0e" category="doc">Obtenha ajuda com atualizações de software</block>
+  <block id="78d291a131fb94757039f284f2381b27" category="doc">Registre-se para obter suporte no NetApp Console</block>
 </blocks>

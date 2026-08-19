@@ -4,7 +4,7 @@ permalink: get-started/quick-start-ontap-update.html
 keywords: get started with ontap update, ontap update quick start, get started with bluexp software updates, software update quick start guide, NetApp Console 
 summary: Comece a atualizar seu sistema de armazenamento ONTAP de forma rápida e fácil. 
 ---
-= Início rápido para atualizar o ONTAP usando atualizações de software
+= Guia rápido para atualizar o ONTAP em atualizações de software
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
@@ -32,4 +32,4 @@ Você deve concluir todas as tarefas para atualizar o sistema de armazenamento O
 Depois de atualizar o sistema de armazenamento ONTAP , veja o que você pode fazer em seguida.
 
 [role="quick-margin-para"]
-link:../ONTAP/validate-storage-system-update.html["Validar o status da atualização do sistema de armazenamento ONTAP"] .
+link:../ONTAP/validate-storage-system-update.html["Valide o status de uma atualização do ONTAP nas atualizações de software"].

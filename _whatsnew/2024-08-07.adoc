@@ -4,6 +4,7 @@
 
 
 
+[[ontap-update]]
 === Atualização do ONTAP
 
 O serviço de BlueXP software updates oferece uma experiência de atualização perfeita aos usuários, reduzindo riscos e garantindo que os clientes possam aproveitar totalmente os recursos do ONTAP .

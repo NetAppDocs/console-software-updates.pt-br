@@ -4,7 +4,7 @@ permalink: ONTAP/fix-blockers-warnings.html
 keywords: fix ontap blockers and warnings, ontap update precheck, acknowledge warnings 
 summary: Corrija os bloqueadores do ONTAP e reconheça os avisos que estão impedindo você de concluir a atualização do ONTAP . 
 ---
-= Corrija todos os bloqueadores usando atualizações de software antes de uma atualização do ONTAP
+= Corrija os bloqueios e avisos do ONTAP em atualizações de software
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
@@ -20,7 +20,7 @@ Você deve corrigir e reconhecer todos os bloqueadores antes de atualizar o soft
 +
 O Console exibe a lista de clusters que exigem uma atualização de software.
 
-. Identifique a versão de destino do ONTAP para seu sistema de armazenamento.  Para obter informações sobre como identificar a versão de destino do ONTAP , consultelink:../ONTAP/choose-ontap-910-later.html["Compare as versões do ONTAP para entender os benefícios e riscos do uso de atualizações de software"] .
+. Identifique a versão de destino do ONTAP para o seu sistema de storage. Para obter informações sobre como identificar a versão de destino do ONTAP, consulte link:../ONTAP/choose-ontap-910-later.html["Compare as versões do ONTAP com as atualizações de software"].
 . Depois de decidir a versão de destino do ONTAP , selecione *Preparar para atualização* para iniciar o processo de atualização.
 +
 A lista de bloqueadores e avisos é exibida.

@@ -4,7 +4,7 @@ permalink: ONTAP/choose-ontap-910-later.html
 keywords: choose ontap target version, ontap update recommendations, identify ontap target version, recommended version, benefits and risks or ONTAP version 
 summary: Entenda os benefícios e riscos de cada versão do ONTAP antes de atualizar seu sistema de armazenamento ONTAP . 
 ---
-= Compare as versões do ONTAP para entender os benefícios e riscos do uso de atualizações de software
+= Compare as versões do ONTAP nas atualizações de software
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
